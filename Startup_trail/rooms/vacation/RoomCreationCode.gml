@@ -1,0 +1,1 @@
+randomize(); //Creates true random behavoir in the game
