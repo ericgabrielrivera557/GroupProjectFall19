@@ -1,12 +1,12 @@
 menu_x = x;
 menu_y = y;
-button_h = 32;
+button_h = 50;
 var company;
 company = obj_company.industry; // grab industry
 
 if(company == industry_enum.FUSION)
 { 
-	buttonz[0] = "1. Hard Bank offers $11 billion\nfor 60 percent equity";
+	buttonz[0] = "1. Hard Bank offers $11 billion for 60 percent equity";
 }
 
 else if(company == industry_enum.GENETIC_ENG) 
@@ -22,7 +22,7 @@ else if(company == industry_enum.QUANTUM_COMPUTING)
 
 if(company == industry_enum.FUSION)
 { 
-	buttonz[1] = "2. Bill Fences has offered $2 billion to\nbuild a fusion reactor.\nHe wants 20 percent.";
+	buttonz[1] = "2. Bill Fences has offered $2 billion to build a fusion reactor. He wants 20 percent.";
 }
 
 else if(company == industry_enum.GENETIC_ENG) 

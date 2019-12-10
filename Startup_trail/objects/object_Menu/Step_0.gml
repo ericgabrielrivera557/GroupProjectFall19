@@ -10,7 +10,7 @@ if (menu_index != last_selected) //audio_play_sound(snd_menu_switch, 1, false);
 last_selected = menu_index;
 
 if(keyboard_check_pressed(vk_enter) && menu_index == 0)
-	room_goto(room_enum.research); // to begin the game
+	room_goto(room_enum.industry_choice); // to begin the game
 else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
 	room_goto(2); // to learn about the game
 else if(keyboard_check_pressed(vk_enter) && menu_index == 2)

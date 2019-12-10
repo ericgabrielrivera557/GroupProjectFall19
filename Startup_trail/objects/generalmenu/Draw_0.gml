@@ -4,8 +4,10 @@ draw_set_halign(fa_left);
 
 if (obj_company.industry == industry_enum.FUSION)
 	draw_set_color(c_white);
+else if (obj_company.industry == industry_enum.GENETIC_ENG)
+	draw_set_color(c_white);
 else
-	draw_set_color($5B5353);
+	draw_set_color(c_white);
 
 draw_text_transformed(200, 200, "What will you do today?", 1.8, 1.8, 0);
 

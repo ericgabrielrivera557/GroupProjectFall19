@@ -4,13 +4,15 @@
 enum room_enum{
 	initial = 0,
 	main_menu = 1,
-	research = 2,
-	investments = 3,
-	game_menu = 4,
-	working_room = 5,
-	adjust_working_hours = 6,
-	vacation = 7,
-	grant_minigame_0 = 8,
-	grant_minigame_1 = 9,
-	market_shares = 10
+	industry_choice = 2,
+	research = 3,
+	investments = 4,
+	game_menu = 5,
+	working_room = 6,
+	adjust_working_hours = 7,
+	vacation = 8,
+	grant_minigame_0 = 9,
+	grant_minigame_1 = 10,
+	market_shares = 11
 	}
+	

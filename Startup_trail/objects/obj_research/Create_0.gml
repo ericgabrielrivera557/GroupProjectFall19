@@ -8,17 +8,17 @@ buttonz[0] = "1. In-House R&D";
 
 if(company == industry_enum.GENETIC_ENG)
 { 
-	buttonz[2] = "2. LERN Labs";
+	buttonz[1] = "2. LERN Labs";
 }
 
 else if(company == industry_enum.FUSION) 
 {
-	buttonz[2] = "2. Los Paramos Laboratory";
+	buttonz[1] = "2. Los Paramos Laboratory";
 }
 
 else if(company == industry_enum.QUANTUM_COMPUTING)
 {
-	buttonz[3] = "2. Commonwealth Institute of Technology";
+	buttonz[1] = "2. Commonwealth Institute of /nTechnology";
 }
 
 buttonss = array_length_1d(buttonz);
