@@ -19,13 +19,13 @@ else if(global.seconds<=30)
 else if(global.seconds<=40)
 {
 	draw_text_transformed(0,300,"THE BOARD DOESN'T LOOK TOO HAPPY",1.75,1.75,0);
-	obj_company.funds *= .98;
+	obj_company.funds *= 0.98;
 	obj_company.market_share *= 0.92;
 }
 else if(global.seconds>40)
 {
 	draw_text_ext_transformed(0,300,"WHAT WERE YOU EVEN DOING FOR THAT LONG?",25, 575,1.75,1.75,0);
-	obj_company.funds *= .93;
+	obj_company.funds *= 0.93;
 	obj_company.market_share *= 0.90;
 }
 

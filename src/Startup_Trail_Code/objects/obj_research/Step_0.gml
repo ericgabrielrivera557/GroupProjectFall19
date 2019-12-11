@@ -15,10 +15,13 @@ if(keyboard_check_pressed(vk_enter) && menu_index == 0)
 	{
 		case industry_enum.QUANTUM_COMPUTING: 
 			obj_company.funds -= 100;
+		break;
 		case industry_enum.FUSION:
 			obj_company.funds -= 300;
+		break;
 		default:
 			obj_company.funds -= 50;
+		break;
 	}
 	funds = 50;
 }
@@ -29,9 +32,12 @@ else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
 	{
 		case industry_enum.QUANTUM_COMPUTING: 
 			obj_company.funds -= 200;
+		break;
 		case industry_enum.FUSION:
 			obj_company.funds -= 700;
+		break;
 		default:
 			obj_company.funds -= 100;
+		break;
 	}
 }

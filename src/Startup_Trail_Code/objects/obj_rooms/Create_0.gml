@@ -17,6 +17,15 @@ enum room_enum{
 	grant_minigame_1 = 12,
 	market_shares = 13,
 	conference = 14,
-	game_over = 15
+	game_over = 15,
+	fusion1 = 16,
+	fusion2 = 17,
+	fusion3 = 18,
+	genetics1 = 19,
+	genetics2 = 20,
+	genetics3 = 21,
+	quantum1 = 22,
+	quantum2 = 23,
+	quantum3 = 24
 	}
 	

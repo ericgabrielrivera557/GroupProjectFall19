@@ -15,12 +15,12 @@
             "m_owner": "23a8f283-9099-42c8-84c7-f23a5df2a8c7"
         },
         {
-            "id": "72f7fb0b-e9f1-4d14-81bf-ee1008b9e444",
+            "id": "643e72d4-4599-4bda-be55-ad85e8e9b17d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
+            "enumb": 4,
             "eventtype": 7,
             "m_owner": "23a8f283-9099-42c8-84c7-f23a5df2a8c7"
         }
@@ -80,7 +80,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "1",
             "varName": "funds",
             "varType": 1
         },
