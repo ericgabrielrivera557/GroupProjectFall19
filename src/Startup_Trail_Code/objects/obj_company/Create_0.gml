@@ -1,4 +1,4 @@
-/// Setting up variables
+///@description Setting up variables
 // You can write your code in this editor
 //Makes this object persist for sure
 object_set_persistent(instance_id, true);

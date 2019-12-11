@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Draw win/lose image
 // You can write your code in this editor
 
 if (global.win_lose == 2)
