@@ -104,12 +104,12 @@
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
+            "rangeEnabled": true,
+            "rangeMax": 100,
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "5.0",
-            "varName": "productivity",
+            "varName": "progress",
             "varType": 0
         }
     ],

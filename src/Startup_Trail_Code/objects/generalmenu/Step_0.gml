@@ -21,3 +21,5 @@ else if(keyboard_check_pressed(vk_enter) && menu_index == 4)
 	room_goto(room_enum.grant_minigame_0); //"5. Apply for Grant";
 else if(keyboard_check_pressed(vk_enter) && menu_index == 5)
 	room_goto(room_enum.market_shares); //"6. Look at Market Shares"
+else if(keyboard_check_pressed(vk_enter) && menu_index == 6)
+	room_goto(room_enum.game_over); //"7. Quit Game"

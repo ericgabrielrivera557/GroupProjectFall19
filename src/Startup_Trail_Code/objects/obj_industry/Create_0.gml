@@ -1,6 +1,6 @@
 menu_x = x;
 menu_y = y;
-button_h = 32;
+button_h = 50;
 
 buttonz[0] = "Fusion Generation";
 buttonz[1] = "Genetic Engineering";

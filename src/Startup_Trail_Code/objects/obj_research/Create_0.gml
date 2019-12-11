@@ -1,6 +1,6 @@
 menu_x = x;
 menu_y = y;
-button_h = 32;
+button_h = 50;
 var company;
 company = obj_company.industry; // grab industry
 
@@ -18,7 +18,7 @@ else if(company == industry_enum.FUSION)
 
 else if(company == industry_enum.QUANTUM_COMPUTING)
 {
-	buttonz[1] = "2. Commonwealth Institute of /nTechnology";
+	buttonz[1] = "2. Commonwealth Institute of \nTechnology";
 }
 
 buttonss = array_length_1d(buttonz);

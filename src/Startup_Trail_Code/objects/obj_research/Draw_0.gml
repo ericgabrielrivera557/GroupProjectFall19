@@ -7,7 +7,7 @@ draw_text_transformed(128, 190, "How will you do R&D?", 1.32, 1.32, 0);
 
 draw_text(180, 315, "You will be involved in:");
 
-draw_text_transformed(180, 520, "What is your choice?", 1, 1, 0);
+draw_text_transformed(180, 520, "Press Enter to Select", 1, 1, 0);
 
 repeat(buttonss) 
 {

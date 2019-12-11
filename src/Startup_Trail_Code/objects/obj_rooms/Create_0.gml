@@ -15,6 +15,8 @@ enum room_enum{
 	vacation = 10,
 	grant_minigame_0 = 11,
 	grant_minigame_1 = 12,
-	market_shares = 13
+	market_shares = 13,
+	conference = 14,
+	game_over = 15
 	}
 	

@@ -8,6 +8,7 @@ buttonz[2] = "3. Adjust Working Hours";
 buttonz[3] = "4. Take Holiday";
 buttonz[4] = "5. Apply for Grant";
 buttonz[5] = "6. Look at Market Shares";
+buttonz[6] = "Quit the Game (Permenant)";
 
 buttonss = array_length_1d(buttonz);
 

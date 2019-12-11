@@ -1,6 +1,6 @@
 menu_x = x;
 menu_y = y;
-button_h = 50;
+button_h = 75;
 var company;
 company = obj_company.industry; // grab industry
 
@@ -16,7 +16,7 @@ else if(company == industry_enum.GENETIC_ENG)
 
 else if(company == industry_enum.QUANTUM_COMPUTING)
 {
-	buttonz[0] = "1. Steve Bozniak offers an\ninvestment of $20 milion for\n10 percent of the company.";
+	buttonz[0] = "1. Steve Bozniak offers an investment of $20 milion for 10 percent of the company.";
 }
 
 
@@ -27,12 +27,12 @@ if(company == industry_enum.FUSION)
 
 else if(company == industry_enum.GENETIC_ENG) 
 {
-	buttonz[1] = "2. Pita Tear offer $100 milion\nfor 10 percent equity";
+	buttonz[1] = "2. Pita Tear offer $100 milion for 10 percent equity";
 }
 
 else if(company == industry_enum.QUANTUM_COMPUTING)
 {
-	buttonz[1] = "2. Macrohard has approached you with an\noffer of $500 million for\na 49 percent stake";
+	buttonz[1] = "2. Macrohard has approached you with an noffer of $500 million for a 49 percent stake";
 }
 
 buttonss = array_length_1d(buttonz);

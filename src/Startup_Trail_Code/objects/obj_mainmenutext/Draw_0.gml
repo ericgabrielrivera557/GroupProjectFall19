@@ -3,7 +3,7 @@ draw_set_halign(fa_left);
 draw_set_color($5B5353);
 
 //draw_text_transformed(26, 90, "The Innovation Trail", 2.18, 2.18, 0);
-draw_text_transformed(26, 90, "The Innovation Trail", 2.18, 2.18, 0);
+draw_text_transformed(100, 90, "The Innovation Trail", 2.18, 2.18, 0);
 draw_text_transformed(280, 190, "??? -> Profit!", 1.55, 1.55, 0);
 
 draw_set_color(c_yellow);
