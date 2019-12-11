@@ -9,10 +9,10 @@
         "8aaf03da-c42a-4965-800e-fae60918afe9",
         "a7542103-cb4e-4b5a-ad3a-2668a2ed4db6",
         "a8f57831-8114-4c28-a5ed-73a48a4b3efc",
-        "e6b6495e-2d17-4f75-9f40-112d1253e01c",
         "9016f898-43d7-4cda-bf60-dd1ed0a518b1",
         "7af4dd5c-871d-46c7-a989-815f95e05a69",
-        "1569ef1c-c01a-4089-bd1e-4d58164c27ed"
+        "1569ef1c-c01a-4089-bd1e-4d58164c27ed",
+        "c129caf9-38ab-4cc5-8cab-1a265c3c0471"
     ],
     "filterType": "GMSprite",
     "folderName": "Random Event",
