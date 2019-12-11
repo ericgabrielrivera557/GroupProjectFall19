@@ -4,8 +4,9 @@ button_h = 32;
 
 button[0] = "1. Revolutionize The World";
 button[1] = "2. Learn about the Journey";
-button[2] = "3. Options";
-button[3] = "4. End the Game";
+button[2] = "3. Industry Perspective";
+button[3] = "4. Options";
+button[4] = "5. End the Game";
 
 buttons = array_length_1d(button);
 
