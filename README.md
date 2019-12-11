@@ -12,7 +12,7 @@ decisions might range from effectuations within the company culture, what R&D in
 corruptly, and how they can lead to different outcomes. In the end, to win the game, you have to become a leading competitor within the particular industry (which will be tech-based).
 
 We will be attaching an executable so that any user might be able to play. To build the project, 
-we ...
+we used GameMaker Studio 2.
 
 
 YouTube video link: TBD 
