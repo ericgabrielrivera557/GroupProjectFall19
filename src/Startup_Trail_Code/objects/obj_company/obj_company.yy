@@ -23,6 +23,26 @@
             "enumb": 4,
             "eventtype": 7,
             "m_owner": "23a8f283-9099-42c8-84c7-f23a5df2a8c7"
+        },
+        {
+            "id": "9ba70cab-9cbc-4457-bdb9-356cd7d80a05",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "23a8f283-9099-42c8-84c7-f23a5df2a8c7"
+        },
+        {
+            "id": "8d572f4f-2449-49df-8c5f-f5690b8ee120",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "23a8f283-9099-42c8-84c7-f23a5df2a8c7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -111,6 +131,34 @@
             "value": "0",
             "varName": "initial_funds",
             "varType": 1
+        },
+        {
+            "id": "45dffcb1-7a12-4384-9251-5eab8080159f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "50",
+            "varName": "fund_gain_per_day",
+            "varType": 1
+        },
+        {
+            "id": "37151a2b-9dea-4765-9b99-6649df292de4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1.02",
+            "varName": "market_share_per_day",
+            "varType": 0
         }
     ],
     "solid": false,

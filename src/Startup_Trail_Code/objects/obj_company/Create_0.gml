@@ -16,5 +16,6 @@ obj_company.market_share = 10;
 
 //Sets up event counter variable
 global.event_counter = 0;
+global.win_lose = 0;
 	
 	

@@ -24,14 +24,14 @@ if(keyboard_check_pressed(vk_enter) && menu_index == 0)
 	switch(obj_company.industry)
 	{
 		case industry_enum.QUANTUM_COMPUTING: 
-			obj_company.funds += 50;
-			obj_company.market_share *= 1.03;
+			obj_company.funds_gained_per_day = 50;
+			obj_company.market_share_per_day = 1.03;
 		case industry_enum.FUSION:
-			obj_company.funds += 80;
-			obj_company.market_share *= 1.03;
+			obj_company.funds_gained_per_day = 80;
+			obj_company.market_share_per_day = 1.03;
 		default:
-			obj_company.funds += 25;
-			obj_company.market_share *= 1.03;
+			obj_company.funds_gained_per_day = 25;
+			obj_company.market_share_per_day = 1.03;
 	}
 }
 else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
@@ -41,14 +41,14 @@ else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
 	switch(obj_company.industry)
 	{
 		case industry_enum.QUANTUM_COMPUTING: 
-			obj_company.funds += 60;
-			obj_company.market_share *= 1.02;
+			obj_company.funds_gained_per_day = 60;
+			obj_company.market_share_per_day = 1.02;
 		case industry_enum.FUSION:
-			obj_company.funds += 90;
-			obj_company.market_share *= 1.02;
+			obj_company.funds_gained_per_day = 90;
+			obj_company.market_share_per_day = 1.02;
 		default:
-			obj_company.funds += 30;
-			obj_company.market_share *= 1.02;
+			obj_company.funds_gained_per_day = 30;
+			obj_company.market_share_per_day = 1.02;
 	}
 }
 else if(keyboard_check_pressed(vk_enter) && menu_index == 2)
@@ -58,13 +58,13 @@ else if(keyboard_check_pressed(vk_enter) && menu_index == 2)
 	switch(obj_company.industry)
 	{
 		case industry_enum.QUANTUM_COMPUTING: 
-			obj_company.funds += 70;
-			obj_company.market_share *= 1.01;
+			obj_company.funds_gained_per_day = 70;
+			obj_company.market_share_per_day = 1.01;
 		case industry_enum.FUSION:
-			obj_company.funds += 100;
-			obj_company.market_share *= 1.01;
+			obj_company.funds_gained_per_day = 100;
+			obj_company.market_share_per_day = 1.01;
 		default:
-			obj_company.funds += 35;
-			obj_company.market_share *= 1.01;
+			obj_company.funds_gained_per_day = 35;
+			obj_company.market_share_per_day = 1.01;
 	}
 }

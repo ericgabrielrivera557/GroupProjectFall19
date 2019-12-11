@@ -50,10 +50,13 @@ else if (random_event_change == 3 && global.event_counter >= 2)
 	{
 		case industry_enum.QUANTUM_COMPUTING: 
 			room_goto(room_enum.quantum3);
+		break;
 		case industry_enum.FUSION:
 			room_goto(room_enum.fusion3);
+		break;
 		default:
 			room_goto(room_enum.genetics3);
+		break;
 	}
 }
 else
