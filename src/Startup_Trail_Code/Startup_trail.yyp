@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "500dddf8-14fa-414f-8153-cc923577b552",
+            "Value": {
+                "id": "f9e44e30-95ec-4f36-b427-db0a2b6ed508",
+                "resourcePath": "objects\\obj_market_axis\\obj_market_axis.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50d8c7ed-309c-4872-bdff-79aa359f5c4b",
             "Value": {
                 "id": "b94d2185-54cd-4676-849a-8bac768cd632",
@@ -459,6 +467,14 @@
             "Value": {
                 "id": "ca6b3fdc-8bd5-46a1-ab44-fe0448db24af",
                 "resourcePath": "sprites\\background_adjust_working_hours\\background_adjust_working_hours.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "62c5a6b0-47cc-4b58-9139-946ffc9fadcc",
+            "Value": {
+                "id": "5bf015b6-28c5-4827-a40a-90afe70597b9",
+                "resourcePath": "sprites\\background_market_axis\\background_market_axis.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -684,6 +700,14 @@
                 "id": "8c91a9ff-57ae-46fe-a9f4-fdf573f2b716",
                 "resourcePath": "views\\90419abb-c94f-414b-9fa3-692440420e4c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "908f0c40-360d-418f-baf2-a4ea09722dd8",
+            "Value": {
+                "id": "bf5b61ec-6315-4345-8dda-212409d486c0",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1084,6 +1108,14 @@
                 "id": "e089c731-a97a-491f-a183-37aed74b30c0",
                 "resourcePath": "views\\fb648058-3dea-4855-87d3-6c26cd5ea5bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fc18c5f6-b825-4bd2-81ca-823e1db3a3bd",
+            "Value": {
+                "id": "9bd88a82-edd1-4da8-aeef-6d68c46d7734",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

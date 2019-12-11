@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "fb648058-3dea-4855-87d3-6c26cd5ea5bd",
     "children": [
-        "1f6736d3-831b-4b24-8d37-fc96b02f1727"
+        "1f6736d3-831b-4b24-8d37-fc96b02f1727",
+        "500dddf8-14fa-414f-8153-cc923577b552"
     ],
     "filterType": "GMObject",
     "folderName": "Market_Shares",

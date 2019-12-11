@@ -7,7 +7,7 @@ if(i == x0){
 }
 if(i == x1){
 	sprite_index = sprite7;
-	text = "Kill Yourself!";
+	text = "Not bad!";
 }
 if(i == x2){
 	instance_destroy();

@@ -12,7 +12,7 @@ last_selected = menu_index;
 if(keyboard_check_pressed(vk_enter) && menu_index == 0)
 	room_goto(room_enum.working_room); // "1. Progress as Normal";
 else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
-	room_goto(room_enum.game_menu); // "2. Go to Conference / Network";
+	room_goto(room_enum.conference); // "2. Go to Conference / Network";
 else if(keyboard_check_pressed(vk_enter) && menu_index == 2)
 	room_goto(room_enum.adjust_working_hours); //"3. Adjust Working Hours";
 else if(keyboard_check_pressed(vk_enter) && menu_index == 3)
