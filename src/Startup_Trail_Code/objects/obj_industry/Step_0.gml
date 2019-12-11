@@ -24,5 +24,4 @@ else if(keyboard_check_pressed(vk_enter) && menu_index == 2)
 {
 	obj_company.industry = industry_enum.QUANTUM_COMPUTING;
 	room_goto(room_enum.research);
-	
 }

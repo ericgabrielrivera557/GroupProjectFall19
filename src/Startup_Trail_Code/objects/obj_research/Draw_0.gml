@@ -12,7 +12,8 @@ draw_text_transformed(180, 520, "Press Enter to Select", 1, 1, 0);
 repeat(buttonss) 
 {
 	draw_set_color($5B5353);
-	if (menu_index == i) draw_set_color($642626);
+	if (menu_index == i) 
+		draw_set_color($642626);
 	draw_text(240, 385 + button_h * i, buttonz[i]);
 	i++;
 }

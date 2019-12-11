@@ -80,9 +80,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1000000.00",
+            "value": "0",
             "varName": "funds",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "d15fd7b4-b755-4c77-9d30-99949b68b27f",
@@ -104,13 +104,13 @@
             "mvc": "1.0",
             "listItems": null,
             "multiselect": false,
-            "rangeEnabled": true,
+            "rangeEnabled": false,
             "rangeMax": 100,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5.0",
-            "varName": "progress",
-            "varType": 0
+            "value": "0",
+            "varName": "initial_funds",
+            "varType": 1
         }
     ],
     "solid": false,

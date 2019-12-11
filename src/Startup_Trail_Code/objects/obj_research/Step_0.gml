@@ -11,10 +11,27 @@ last_selected = menu_index;
 if(keyboard_check_pressed(vk_enter) && menu_index == 0)
 {
 	room_goto(room_enum.investments);// in house r&d
-	//Should change variables here
+	switch(obj_company.industry)
+	{
+		case industry_enum.QUANTUM_COMPUTING: 
+			obj_company.funds -= 100;
+		case industry_enum.FUSION:
+			obj_company.funds -= 300;
+		default:
+			obj_company.funds -= 50;
+	}
+	funds = 50;
 }
 else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
 {
 	room_goto(room_enum.investments);// industry specific
-	//Should change variables here
+	switch(obj_company.industry)
+	{
+		case industry_enum.QUANTUM_COMPUTING: 
+			obj_company.funds -= 200;
+		case industry_enum.FUSION:
+			obj_company.funds -= 700;
+		default:
+			obj_company.funds -= 100;
+	}
 }

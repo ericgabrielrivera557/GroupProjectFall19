@@ -7,7 +7,7 @@ if(i == x0)
 }
 if(i == x1)
 {
-	text = "Kill Yourself!";
+	text = "Go Home!";
 }
 if(i == x2)
 {

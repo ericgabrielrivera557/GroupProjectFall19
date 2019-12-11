@@ -7,7 +7,19 @@ if (vacation_choice != 5)
 	event_perform_object(obj_company, ev_other, ev_user0);
 	event_perform_object(obj_other_company_1, ev_other, ev_user0);
 	event_perform_object(obj_other_company_2, ev_other, ev_user0);
-	
+
+	switch(obj_company.industry)
+	{
+		case industry_enum.QUANTUM_COMPUTING: 
+			obj_company.funds *= 1.05;
+			obj_company.market_share *= 0.95;
+		case industry_enum.FUSION:
+			obj_company.funds *= 1.05;
+			obj_company.market_share *= 0.96;
+		default:
+			obj_company.funds *= 1.05;
+			obj_company.market_share *= 0.97;
+	}
 }
 
 //go to menu

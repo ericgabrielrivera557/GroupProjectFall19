@@ -12,10 +12,32 @@ last_selected = menu_index;
 if(keyboard_check_pressed(vk_enter) && menu_index == 0)
 {
 	room_goto(room_enum.game_menu);
-	//Should change variables here
+	switch(obj_company.industry)
+	{
+		case industry_enum.QUANTUM_COMPUTING: 
+			obj_company.funds += 700;
+			obj_company.initial_funds = obj_company.funds;
+		case industry_enum.FUSION:
+			obj_company.funds -= 11000;
+			obj_company.initial_funds = obj_company.funds;
+		default:
+			obj_company.funds -= 500;
+			obj_company.initial_funds = obj_company.funds;
+	}
 }
 else if(keyboard_check_pressed(vk_enter) && menu_index == 1)
 {
 	room_goto(room_enum.game_menu);
-	//Should change variables here
+	switch(obj_company.industry)
+	{
+		case industry_enum.QUANTUM_COMPUTING: 
+			obj_company.funds += 600;
+			obj_company.initial_funds = obj_company.funds;
+		case industry_enum.FUSION:
+			obj_company.funds -= 5000;
+			obj_company.initial_funds = obj_company.funds;
+		default:
+			obj_company.funds -= 400;
+			obj_company.initial_funds = obj_company.funds;
+	}
 }

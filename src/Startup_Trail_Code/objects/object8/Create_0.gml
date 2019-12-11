@@ -7,3 +7,4 @@ text = "Astounding Job!";
 sprite_index = sprite5;
 //depth = -3;
 i = 0;
+
