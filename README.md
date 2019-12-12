@@ -19,9 +19,11 @@ To build the project, we used GameMaker Studio 2 and it is impossible to build w
 ## YouTube video link: TBD 
 
 
-## Built With
+## Applications Utilized
 
 * [GameMaker](https://www.yoyogames.com/gamemaker)
+* [Photoshop](https://www.adobe.com/products/photoshop.html)
+* [C#]
 
 ## Authors
 
