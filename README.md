@@ -1,8 +1,8 @@
 # ??? -> Profit!
 
-### Boston University College of Engineering: ###*ENG EC 327 PROJECT SUBMISSION*
+### Boston University College of Engineering: ENG EC 327 PROJECT SUBMISSION
 
-##### General Information
+#### General Information
 
 *Our project revisits the Oregon Trail style game where users enter commands and actions that mimic reality and, in tandem, teach concepts throughout the medium of a game.* The focus
 of our project is to follow a path from the inception of an innovative idea, to the creation of a widely successful company (or to its demise). The game will progress along a user’s path from
@@ -16,7 +16,7 @@ corruptly, and how they can lead to different outcomes. In the end, to win the g
 
 To build the project, we used GameMaker Studio 2 and it is impossible to build without this proprietary engine.  For reference all of our code is screenshotted and located at ./misc/CodeScreenshotsForReference.docx, and our functionality shall be demonstrated by the youtube video below.
 
-YouTube video link: TBD 
+## YouTube video link: TBD 
 
 
 ## Built With
