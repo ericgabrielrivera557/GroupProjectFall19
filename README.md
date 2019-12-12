@@ -4,7 +4,8 @@
 
 #### General Information
 
-*Our project revisits the Oregon Trail style game where users enter commands and actions that mimic reality and, in tandem, teach concepts throughout the medium of a game.* The focus
+Our project revisits the Oregon Trail style game where users enter commands and actions that mimic reality and, in tandem, teach concepts throughout the medium of a game. <br>
+The focus
 of our project is to follow a path from the inception of an innovative idea, to the creation of a widely successful company (or to its demise). The game will progress along a user’s path from
 the idea, to the commencement of company (with its respective co-founder[s]), to all the different challenges that will emerge -- all to resist the becoming of the leading company within
 an industry! There are unequivocally many routes that can bootstrap a company to success, and our game will try to capture as many possible combinations. We hope to show how the effect of
@@ -23,7 +24,7 @@ To build the project, we used GameMaker Studio 2 and it is impossible to build w
 
 * [GameMaker](https://www.yoyogames.com/gamemaker)
 * [Photoshop](https://www.adobe.com/products/photoshop.html)
-* [C#]
+* C#
 
 ## Authors
 
