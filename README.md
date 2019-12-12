@@ -15,7 +15,7 @@ corruptly, and how they can lead to different outcomes. In the end, to win the g
 
 ---
 
-To build the project, we used GameMaker Studio 2 and it is impossible to build without this proprietary engine.  For reference all of our code is screenshotted and located at ./misc/CodeScreenshotsForReference.docx, and our functionality shall be demonstrated by the youtube video below.
+To build the project, we used GameMaker Studio 2 and it is impossible to build without this proprietary engine.  For reference all of our code is screenshotted and located at ./misc/CodeScreenshotsForReference.docx, and our functionality shall be demonstrated by the youtube video below adn the zipped executable (This had to be compressed as one of the neccessary files was over 50MB).
 
 ## YouTube video link: TBD 
 
