@@ -17,3 +17,20 @@ corruptly, and how they can lead to different outcomes. In the end, to win the g
 To build the project, we used GameMaker Studio 2 and it is impossible to build without this proprietary engine.  For reference all of our code is screenshotted and located at ./misc/CodeScreenshotsForReference.docx, and our functionality shall be demonstrated by the youtube video below.
 
 YouTube video link: TBD 
+
+
+## Built With
+
+* [GameMaker](https://www.yoyogames.com/gamemaker)
+
+## Authors
+
+* **George Sorescu** - sorescu@bu.edu
+* **Devin Bidstrup** - dbids@bu.edu
+* **Allen Zou** - allenzou@bu.edu
+* **Sam Krasnoff** - krasnoff@bu.edu 
+* **Eric Rivera** - egrs@bu.edu 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
