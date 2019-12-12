@@ -1,6 +1,6 @@
 # ??? -> Profit!
 
-## Group Members: George Sorescu, Devin Bidstrup, Allen Zou, Sam Krasnoff, Eric Rivera
+### Boston University College of Engineering: *ENG EC 327 PROJECT SUBMISSION*
 
 ##### Member Emails: sorescu@bu.edu, dbids@bu.edu, allenzou@bu.edu, krasnoff@bu.edu, egrs@bu.edu
 
