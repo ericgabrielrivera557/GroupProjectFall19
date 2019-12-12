@@ -15,6 +15,3 @@ repeat(buttons)
 	draw_text(240, 365 + button_h * i, button[i]);
 	i++;
 }
-
-
-//draw_sprite_ext(FlyingCash, image_index/3, 560, 203, 0.85, 0.85, 0, c_white, 1);

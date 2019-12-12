@@ -5,16 +5,6 @@
     "name": "object5",
     "eventList": [
         {
-            "id": "70d9e129-4723-4535-ba1f-87efbc4b399c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "9951834e-31d9-4aed-9361-8066d1ac34e1"
-        },
-        {
             "id": "bd1d84c5-39ba-481d-82da-6d715df00636",
             "modelName": "GMEvent",
             "mvc": "1.0",

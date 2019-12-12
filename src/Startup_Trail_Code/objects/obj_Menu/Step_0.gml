@@ -88,5 +88,3 @@ if (menu_index == 4 && keyboard_check_pressed(vk_enter))
 {
 		game_end();
 }
-
-//button[1] = room_goto(1);

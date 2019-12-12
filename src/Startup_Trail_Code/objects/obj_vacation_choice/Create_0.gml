@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Create the vars
 // You can write your code in this editor
 
 count = 0;

@@ -5,16 +5,6 @@
     "name": "oGrab",
     "eventList": [
         {
-            "id": "74e64466-7b58-439d-b9e8-b8e0e35eb007",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 1,
-            "m_owner": "4438e503-5169-4b63-9789-b7d562add3de"
-        },
-        {
             "id": "214e49b0-f54c-4b14-b4e3-85535439604c",
             "modelName": "GMEvent",
             "mvc": "1.0",
