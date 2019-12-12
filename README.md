@@ -11,11 +11,6 @@ decisions propagate among time in an entrepreneurial environment, and also teach
 decisions might range from effectuations within the company culture, what R&D investments to pursue, business deals, etc. We will explore the different ways to run a company, honestly or
 corruptly, and how they can lead to different outcomes. In the end, to win the game, you have to become a leading competitor within the particular industry (which will be tech-based).
 
-We will be attaching an executable so that any user might be able to play. To build the project, 
-we used GameMaker Studio 2.
-
+To build the project, we used GameMaker Studio 2 and it is impossible to build without this proprietary engine.  For reference all of our code is screenshotted and located at ./misc/CodeScreenshotsForReference.docx, and our functionality shall be demonstrated by the youtube video below.
 
 YouTube video link: TBD 
-
-
-Anything else you feel is relevant 
