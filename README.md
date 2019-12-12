@@ -1,8 +1,8 @@
 # ??? -> Profit!
 
-### Boston University College of Engineering: *ENG EC 327 PROJECT SUBMISSION*
+### Boston University College of Engineering: ###*ENG EC 327 PROJECT SUBMISSION*
 
-##### Member Emails: sorescu@bu.edu, dbids@bu.edu, allenzou@bu.edu, krasnoff@bu.edu, egrs@bu.edu
+##### General Information
 
 *Our project revisits the Oregon Trail style game where users enter commands and actions that mimic reality and, in tandem, teach concepts throughout the medium of a game.* The focus
 of our project is to follow a path from the inception of an innovative idea, to the creation of a widely successful company (or to its demise). The game will progress along a user’s path from
