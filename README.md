@@ -2,9 +2,9 @@
 
 ## Group Members: George Sorescu, Devin Bidstrup, Allen Zou, Sam Krasnoff, Eric Rivera
 
-### Member Emails: sorescu@bu.edu, dbids@bu.edu, allenzou@bu.edu, krasnoff@bu.edu, egrs@bu.edu
+##### Member Emails: sorescu@bu.edu, dbids@bu.edu, allenzou@bu.edu, krasnoff@bu.edu, egrs@bu.edu
 
-Our project revisits the Oregon Trail style game where users enter commands and actions that mimic reality and, in tandem, teach concepts throughout the medium of a game. The focus
+*Our project revisits the Oregon Trail style game where users enter commands and actions that mimic reality and, in tandem, teach concepts throughout the medium of a game.* The focus
 of our project is to follow a path from the inception of an innovative idea, to the creation of a widely successful company (or to its demise). The game will progress along a user’s path from
 the idea, to the commencement of company (with its respective co-founder[s]), to all the different challenges that will emerge -- all to resist the becoming of the leading company within
 an industry! There are unequivocally many routes that can bootstrap a company to success, and our game will try to capture as many possible combinations. We hope to show how the effect of
